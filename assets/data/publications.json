@@ -2,34 +2,157 @@
   {
     "type": "review",
     "year": "2026",
-    "authors": "Ahmmed, M. H., [co-authors to be confirmed]",
-    "title": "Sub-daily sampling reveals contrasting concentration–discharge behaviour for phosphorus, nitrogen, and organic carbon across snow- and rain-dominated runoff in a cold agricultural catchment",
-    "venue": "Target journal to be confirmed",
-    "status": "In preparation",
-    "doi": "",
-    "url": "",
-    "pdf": "",
-    "data": ""
+    "authors": "Ahmmed, M. H., Mahmood, T. H., & Jeannotte, T. L.",
+    "title": "Hydrologic pathways and geochemical controls on concentration–discharge relationships in Northern Great Plains agricultural landscapes",
+    "venue": "Water Research",
+    "status": "In submission"
   },
   {
     "type": "journal",
-    "year": "",
-    "authors": "Replace this entry with a real publication from your CV.",
-    "title": "Example journal article title goes here",
-    "venue": "Journal Name",
-    "volume": "Vol(Issue)",
-    "pages": "1–15",
-    "doi": "",
-    "url": "",
-    "pdf": ""
+    "year": "2026",
+    "authors": "Ngoyi, K., Ahmmed, M. H., Mahmood, T. H., & Mann, M.",
+    "title": "Hysteresis of concentration–discharge relationships in a cold region river",
+    "venue": "Hydrology Research",
+    "volume": "57(5)",
+    "pages": "100006",
+    "doi": "10.1016/j.hydrch.2026.100006",
+    "url": "https://doi.org/10.1016/j.hydrch.2026.100006"
+  },
+  {
+    "type": "journal",
+    "year": "2026",
+    "authors": "Ahmmed, M. H., Hossain, M. S., Nowreen, S., Moniruzzaman, M., Jamal, A. H. M. S. I. M., Moniruzzaman, M., Shammee, I. J., Majumder, R. K., Sharmin, A., Akhtar, S., Chowdhury, N., & Sayed, S.",
+    "title": "Appraising aquifer storage recovery (ASR) for irrigation potential in a coastal environment",
+    "venue": "Journal of Hydrology",
+    "pages": "135406",
+    "doi": "10.1016/j.jhydrol.2026.135406",
+    "url": "https://doi.org/10.1016/j.jhydrol.2026.135406"
+  },
+  {
+    "type": "journal",
+    "year": "2026",
+    "authors": "Jeannotte, T. L., Wainty, S., Mahmood, T. H., & Ahmmed, M. H.",
+    "title": "Land management controls on snow accumulation in a cold-region agricultural watershed",
+    "venue": "Science of the Total Environment",
+    "volume": "1029",
+    "pages": "181749",
+    "doi": "10.1016/j.scitotenv.2026.181749",
+    "url": "https://doi.org/10.1016/j.scitotenv.2026.181749"
+  },
+  {
+    "type": "journal",
+    "year": "2025",
+    "authors": "Ahmmed, M. H., Mahmood, T. H., Archambault, A. L., & Wainty, S.",
+    "title": "Relationships between surface water area and hydrologic fluxes in a cold region terminal lake basin",
+    "venue": "Journal of Hydrology: Regional Studies",
+    "volume": "62",
+    "pages": "102766",
+    "doi": "10.1016/j.ejrh.2025.102766",
+    "url": "https://doi.org/10.1016/j.ejrh.2025.102766"
+  },
+  {
+    "type": "journal",
+    "year": "2025",
+    "authors": "Billah, M. M., & Ahmmed, M. H.",
+    "title": "Assessment of seasonal water discharge trends and socio-economic impacts in the Karnakathi Canal, Barishal",
+    "venue": "Water Science",
+    "volume": "39(1)",
+    "pages": "38–52",
+    "doi": "10.1080/23570008.2025.2574777",
+    "url": "https://doi.org/10.1080/23570008.2025.2574777"
+  },
+  {
+    "type": "journal",
+    "year": "2021",
+    "authors": "Jaman, M. H., Mia, A. J., Islam, M. S., Ahmmed, M. H., Arafath, M. Y., & Goswami, S.",
+    "title": "Morphodynamics of riverbank and population migration along the Bhairab, Rupsha, and Majutkhali rivers in Dighalia Upazila, Khulna, Bangladesh",
+    "venue": "Barishal University Journal of Science and Engineering",
+    "volume": "7(1)",
+    "pages": "11–25"
+  },
+  {
+    "type": "other",
+    "year": "2024",
+    "authors": "Iqbal, A., Emu, I. A., Hossain, F., Popy, S. M., Zzaman, R. U., & Ahmmed, M. H.",
+    "title": "Assessment and planning of a solid waste management system for the Ichamati riverside area of Pabna City",
+    "venue": "Civil Engineering for Multi-Hazard Risk Reduction, Lecture Notes in Civil Engineering",
+    "volume": "Vol. 457, Springer",
+    "status": "Book chapter",
+    "doi": "10.1007/978-981-99-9610-0_22",
+    "url": "https://doi.org/10.1007/978-981-99-9610-0_22"
+  },
+  {
+    "type": "other",
+    "year": "2023",
+    "authors": "Tabassum, N., Nowreen, S., Moniruzzaman, M., & Ahmmed, M. H.",
+    "title": "Assessing groundwater recharge contribution of surface water and rainwater by isotopic and hydrogeochemical analyses in Kushtia District, Bangladesh",
+    "venue": "SSRN",
+    "status": "Preprint",
+    "doi": "10.2139/ssrn.4937730",
+    "url": "https://doi.org/10.2139/ssrn.4937730"
+  },
+
+  {
+    "type": "conference",
+    "year": "2026",
+    "authors": "Ahmmed, M. H., Mahmood, T. H., & Jeannotte, T. L.",
+    "title": "Impacts of contributing area and frozen soil conditions on nutrient concentration and export",
+    "venue": "American Geophysical Union Fall Meeting (AGU26), San Francisco, CA, December 2026",
+    "status": "Accepted"
   },
   {
     "type": "conference",
-    "year": "",
-    "authors": "Replace this entry with a real conference presentation from your CV.",
-    "title": "Example conference presentation title",
-    "venue": "Conference name, location",
-    "status": "Oral presentation",
-    "slides": ""
+    "year": "2026",
+    "authors": "Elena, R., Ahmmed, M. H., Mahmoud, H., Jeannotte, T. L., Mahmood, T. H., Cook, B., & Crow Ghost, D.",
+    "title": "Integrating field observations and hydrologic modeling to understand cold-region hydrology in a prairie tributary basin of the Missouri River",
+    "venue": "GSA Connects 2026, Denver, CO, October 2026",
+    "status": "Accepted"
+  },
+  {
+    "type": "conference",
+    "year": "2025",
+    "authors": "Ahmmed, M. H., Jeannotte, T. L., & Mahmood, T. H.",
+    "title": "Hydrologic pathways and geochemical controls on concentration–discharge relationships in Northern Great Plains agricultural landscapes",
+    "venue": "AGU Fall Meeting (AGU25), December 2025",
+    "status": "Oral presentation"
+  },
+  {
+    "type": "conference",
+    "year": "2025",
+    "authors": "Elena, R., Ahmmed, M. H., Jeannotte, T. L., Mahmood, T. H., & Cook, B.",
+    "title": "Impacts of drought and deluge conditions on water supply in a prairie tributary basin of the Missouri River",
+    "venue": "GSA Connects 2025, San Antonio, TX, September 2025",
+    "doi": "10.1130/abs/2025AM-7228",
+    "url": "https://doi.org/10.1130/abs/2025AM-7228"
+  },
+  {
+    "type": "conference",
+    "year": "2024",
+    "authors": "Ahmmed, M. H., Jeannotte, T. L., & Mahmood, T. H.",
+    "title": "Water quality and nutrient dynamics in cold agricultural landscapes: a hydrological and biogeochemical perspective from the Souris River Basin, North Dakota",
+    "venue": "AGU Fall Meeting (AGU24), December 2024",
+    "status": "Poster presentation"
+  },
+  {
+    "type": "conference",
+    "year": "2023",
+    "authors": "Ahmmed, M. H., Hossain, M. S., Nowreen, S., Moniruzzaman, M., Jamal, A. H. M. S. I. M., Shammee, I. J., Majumder, R. K., Sharmin, A., & Akhtar, S.",
+    "title": "Effectiveness of the aquifer storage and recovery (ASR) technique in southwestern coastal Bangladesh",
+    "venue": "9th International Conference on Water and Flood Management (ICWFM-2023), Dhaka, Bangladesh, March 2023"
+  },
+  {
+    "type": "conference",
+    "year": "2023",
+    "authors": "Ahmmed, M. H., Nowreen, S., Sharmin, A., Zzaman, R. U., & Akhtar, S.",
+    "title": "An investigation of existing managed aquifer recharge (MAR) systems in southwestern coastal Bangladesh as a drinking and irrigation water supply solution",
+    "venue": "International Perspective on Water Resources and the Environment (IPWE-2023), Dhaka, Bangladesh, January 2023, p. 69",
+    "status": "Oral presentation"
+  },
+  {
+    "type": "conference",
+    "year": "2023",
+    "authors": "Tabassum, N., Nowreen, S., Moniruzzaman, M., & Ahmmed, M. H.",
+    "title": "Isotopic and hydrogeochemical analyses to assess groundwater and surface water attributes in Kushtia, Bangladesh",
+    "venue": "IPWE-2023, Dhaka, Bangladesh, January 2023, p. 67"
   }
 ]
