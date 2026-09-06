@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research Notes — Md Helal Ahmmed</title>
+<meta name="description" content="Short notes on field methods, high-frequency sampling, and reading from Md Helal Ahmmed's research on cold-region catchment nutrient transport.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💧</text></svg>">
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="brand" href="index.html"><span class="brand__mark">◇</span>Md Helal Ahmmed</a>
+
+    <nav class="nav" aria-label="Primary">
+      <ul class="nav__list" id="primary-nav">
+        <li><a class="nav__link" href="index.html#about">About</a></li>
+        <li><a class="nav__link" href="index.html#research">Research</a></li>
+        <li><a class="nav__link" href="index.html#publications">Publications</a></li>
+        <li><a class="nav__link" href="index.html#gallery">Field &amp; Data</a></li>
+        <li><a class="nav__link" href="index.html#teaching">Teaching</a></li>
+        <li><a class="nav__link" href="index.html#cv">CV</a></li>
+        <li><a class="nav__link is-active" href="notes.html" aria-current="page">Notes</a></li>
+        <li><a class="nav__link" href="index.html#contact">Contact</a></li>
+      </ul>
+
+      <button class="icon-btn" type="button" data-theme-toggle aria-label="Switch theme" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4.2"></circle>
+          <path d="M12 2.2v2.1M12 19.7v2.1M4.4 4.4l1.5 1.5M18.1 18.1l1.5 1.5M2.2 12h2.1M19.7 12h2.1M4.4 19.6l1.5-1.5M18.1 5.9l1.5-1.5"></path>
+        </svg>
+      </button>
+
+      <button class="icon-btn nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="primary-nav" aria-label="Menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16"></path>
+        </svg>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section" style="padding-top: var(--space-5);">
+    <div class="wrap wrap--narrow">
+      <p class="section__label">Research Notes</p>
+      <h1 style="font-size: var(--step-3);">Notes from the field and the desk</h1>
+      <p class="section__intro">
+        Short pieces on method decisions, things that went wrong in the field, and papers worth
+        reading. Written mostly for my own record, published in case they are useful to someone
+        else working on cold-region water quality.
+      </p>
+
+      <ul class="note-list">
+
+        <li class="note" id="note-sampling-frequency">
+          <div class="note__meta">
+            <time datetime="2026-04-15">15 April 2026</time>
+            <span class="dot">·</span>
+            <span>Methods</span>
+            <span class="dot">·</span>
+            <span>6 min read</span>
+          </div>
+          <h2 class="note__title"><a href="#note-sampling-frequency">What a weekly sample misses during snowmelt</a></h2>
+          <div class="note__body">
+            <p>
+              This is a starter post, written so you can see how the section looks with real
+              content. Replace the text with your own and the formatting carries over.
+            </p>
+            <p>
+              The argument is simple enough to state in a sentence: if the event lasts two to five
+              days and you sample every seven, you will usually miss it. What is less obvious is
+              what that does to a load estimate. Interpolating between two samples that both sit on
+              baseflow produces a smooth, plausible-looking curve that happens to be wrong by a
+              margin nobody can see from the record itself.
+            </p>
+            <p>
+              A useful exercise is to take a sub-daily record and subsample it at weekly and monthly
+              intervals, then recompute the load from each. The spread across different starting
+              days is often larger than the difference between catchments, which is an uncomfortable
+              result if catchment comparison is the point of the monitoring programme.
+            </p>
+            <blockquote>
+              Replace this with a quotation, a caveat, or a result you want to pull out of the
+              running text.
+            </blockquote>
+            <p>
+              Where the evidence is thin, say so. I would not claim yet that the pattern holds
+              across regimes, only that it shows up clearly in the melt data I have.
+            </p>
+          </div>
+        </li>
+
+        <li class="note" id="note-template">
+          <div class="note__meta">
+            <time datetime="2026-01-01">Date</time>
+            <span class="dot">·</span>
+            <span>Category</span>
+            <span class="dot">·</span>
+            <span>N min read</span>
+          </div>
+          <h2 class="note__title"><a href="#note-template">Second post title</a></h2>
+          <div class="note__body">
+            <p>
+              Copy the block above, change the <code>id</code>, the date, the title, and the body.
+              No build step and no dependencies, so a post is just HTML you paste in.
+            </p>
+            <p>
+              Available inside a post: paragraphs, <code>h3</code> subheadings, bulleted and
+              numbered lists, blockquotes, links, and inline <code>code</code>. Figures work the
+              same way as on the gallery, so a chart can go straight into a post.
+            </p>
+          </div>
+        </li>
+
+      </ul>
+
+      <div class="callout">
+        <strong>Adding a post:</strong>
+        duplicate one <code>&lt;li class="note"&gt;</code> block, put it at the top of the list,
+        and give it a unique <code>id</code>. Newest first. If you would rather write in Markdown,
+        tell me and I will set that up instead.
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap site-footer__inner">
+    <p>© <span data-year>2026</span> Md Helal Ahmmed</p>
+    <div class="site-footer__links">
+      <a href="index.html#about">About</a>
+      <a href="index.html#research">Research</a>
+      <a href="index.html#publications">Publications</a>
+      <a href="notes.html">Notes</a>
+      <a href="index.html#contact">Contact</a>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
