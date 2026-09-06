@@ -1,0 +1,35 @@
+[
+  {
+    "type": "review",
+    "year": "2026",
+    "authors": "Ahmmed, M. H., [co-authors to be confirmed]",
+    "title": "Sub-daily sampling reveals contrasting concentration–discharge behaviour for phosphorus, nitrogen, and organic carbon across snow- and rain-dominated runoff in a cold agricultural catchment",
+    "venue": "Target journal to be confirmed",
+    "status": "In preparation",
+    "doi": "",
+    "url": "",
+    "pdf": "",
+    "data": ""
+  },
+  {
+    "type": "journal",
+    "year": "",
+    "authors": "Replace this entry with a real publication from your CV.",
+    "title": "Example journal article title goes here",
+    "venue": "Journal Name",
+    "volume": "Vol(Issue)",
+    "pages": "1–15",
+    "doi": "",
+    "url": "",
+    "pdf": ""
+  },
+  {
+    "type": "conference",
+    "year": "",
+    "authors": "Replace this entry with a real conference presentation from your CV.",
+    "title": "Example conference presentation title",
+    "venue": "Conference name, location",
+    "status": "Oral presentation",
+    "slides": ""
+  }
+]
